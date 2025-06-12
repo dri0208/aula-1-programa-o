@@ -1,0 +1,27 @@
+body{
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: #3e0b0b;
+    color: rgb(103, 217, 103);
+    padding: 20px;
+    text-align: center;
+
+
+}
+main{
+    display: flex; 
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+    
+
+}
+section{
+    width: 45;
+    margin-bottom: 20xp;
+
+}
